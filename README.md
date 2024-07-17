@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Soulless Reaper</h1>
 
-- 🔭 I’m currently working on Reaper Skyblock & Reapland Factions 
+- 🔭 I’m currently working on Reaper Scripting
 
-- 🌱 I’m currently learning **Cyber Sec**
-
-- 🤝 I’m looking for help with Reaper Skyblock
+- 🌱 I’m currently learning **HTML & CSS**
 
 - 👨‍💻 All of my projects are available at https://github.com/SoullessReaperYT?tab=repositories
  
-- 💬 Ask me about **Minecraft Addons**
+- 💬 Ask me about **Minecraft API**
 
 - 📫 How to reach me **reaplandrealms@gmail.com**
 
